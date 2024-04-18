@@ -2,7 +2,7 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/camilla_carvalho07)
 
-![Camilla GitHub stats](https://github-readme-stats.vercel.app/api?username=Camilla26&show_icons=true&theme=radical)
+![Camilla GitHub stats](https://github-readme-stats.vercel.app/api?username=Camilla126&show_icons=true&theme=radical)
 
 ## Tecnologias que uso no meu dia
 
