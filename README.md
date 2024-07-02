@@ -1,6 +1,6 @@
 ### Olá, eu sou Camilla Carvalho👋🏽
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/camilla_carvalho07)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mylla_artss)
 
 ![Camilla GitHub stats](https://github-readme-stats.vercel.app/api?username=Camilla126&show_icons=true&theme=radical)
 
