@@ -17,6 +17,10 @@
 <br/>
 “A tecnologia move o mundo”. -Steve Jobs
 
-## Email para contato
+## Email para contato:
 
 camillacarvalho721@gmail.com
+
+## Telefone:
+
++557798868-3261
