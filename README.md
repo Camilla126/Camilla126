@@ -18,6 +18,8 @@
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Camilla126&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Camilla126&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
+
+  #
   
 ### Skills🚀 
 <div><img loading="lazy" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" width="90" height="30"/> 
@@ -31,4 +33,7 @@
 
 
 "A tecnologia move o mundo" -Steve Jobs
+
+#
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" widh="30" height="20"> +55 77 98868-3261
 
