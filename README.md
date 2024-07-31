@@ -11,9 +11,6 @@
 📚Cursando Engenharia de Software <br>
 💬Email para contato: camillacarvalho721@gmail.com 
 
-<img align="right" alt="" height="190px" src="./src/study.gif">
-
-
 ### Redes sociais📱
 
 <div>
