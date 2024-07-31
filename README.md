@@ -28,6 +28,9 @@
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Camilla126&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
+<br>
+
+[![](https://visitcount.itsvg.in/api?id=Camilla126&icon=0&color=5)](https://visitcount.itsvg.in)
   #
   
 ### Skills🚀 
@@ -49,3 +52,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Camilla126/Camilla126/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Camilla126/Camilla126/output/github-contribution-grid-snake.svg">
 </picture>
+
+#
+
+
