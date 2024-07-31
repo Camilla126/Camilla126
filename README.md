@@ -1,8 +1,18 @@
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Bem+Vindo+ao+meu+p!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
+  </a>
+</div>
+
 ## Um pouco sobre mim✨
 
 👩‍💻Desenvolvedora Front-End <br>
 📚Cursando Engenharia de Software <br>
 💬Email para contato: camillacarvalho721@gmail.com 
+
+<img align="right" alt="" height="190px" src="./src/study.gif">
+
 
 ### Redes sociais📱
 
