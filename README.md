@@ -42,7 +42,7 @@
 <img loading="lazy" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" width="90" height="30"/> 
 <img loading="lazy" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" width="90" height="30"/> 
 <img loading="lazy" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" width="90" height="30"/</div>
-
+ <img loading="lazy" src= "https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" width="90" height="30"/> 
 
 "A tecnologia move o mundo" -Steve Jobs
 
