@@ -21,17 +21,7 @@
 </div>
 
 ## GitHub Stats :zap:
-
-<div>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Camilla126&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <a href="https://github.com/Camilla126">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Camilla126&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
-<br>
-
-[![](https://visitcount.itsvg.in/api?id=Camilla126&icon=0&color=5)](https://visitcount.itsvg.in)
-  #
+![Camilla Status](https://github-readme-stats.vercel.app/api?username=Camilla126&show_icons=true)
   
 ### Skills🚀 
 <div><img loading="lazy" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" width="90" height="30"/> 
