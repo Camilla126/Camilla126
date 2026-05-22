@@ -8,7 +8,7 @@
 ## Um pouco sobre mim✨<img align="right" alt="" height="250px" src="study.gif">
 
 
-👩‍💻Desenvolvedora Front-End <br>
+👩‍💻Desenvolvedora FullStack <br>
 📚Cursando Engenharia de Software <br>
 💬Email para contato: camillacarvalho721@gmail.com 
 
